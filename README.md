@@ -1,0 +1,2 @@
+# Bench-Marks-Problem-in-Machine-Learning-for-Website-Phishing-Dataset
+The basic idea of the project is to implement some of the popular methodologies under supervised learning for solving the Machine learning problem on a Phishing dataset. Our motive is to solve the Multiclass classification problem of phishing dataset belonging to three different classes (Legitimate, Phishing and Suspicious) using some of the supervised learning methodologies like Support vector machines (SVM), Neural networks, Naïve Bayes classifier, Decision trees and Random Forest 
